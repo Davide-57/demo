@@ -16,6 +16,7 @@ public class CalculatorApplication extends Application {
         stage.setScene(scene);
         stage.show();
         System.out.println("ciao");
+        System.out.println("ciao");
     }
 
     public static void main(String[] args) {
